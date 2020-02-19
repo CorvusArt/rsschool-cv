@@ -36,8 +36,8 @@ function encodeToRot13(str) {
 
 # Experience
 
-1. [Htmlacademy](https://htmlacademy.ru/profile/id129589/achievements)
-2. [Github js-assignments](https://github.com/CorvusArt/js-assignments) 
+- [Htmlacademy](https://htmlacademy.ru/profile/id129589/achievements)
+- [Github js-assignments](https://github.com/CorvusArt/js-assignments) 
 
 # Education
 
