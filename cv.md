@@ -36,4 +36,4 @@ Rolling scopes courses, IT Shark courses, Htmlacademy and javascript.ru lessons 
 # English 
 I am learning english at school and university, also take some lessons from the private teacher. Have an account at 
 
-**Lingual Leo** site. Also i have few english-speaking friends.
+**Lingual Leo** site. Also i have few english-speaking friends, with whom we like together travel and communicate 
