@@ -4,13 +4,12 @@
  # Summary
 I am interesting in web development as a creative and perspective work. I like to travel the world and work at different places.Web development seems to be a good-looking sphere of work. Hope to get in a good and kind company of co-workers, meet with interesting people and learn new stuff.I am kind, peacefuul guy, who like to learn anything new and listen others.
 # Skills
- - HTML
- - CSS
- - JS
- - React
- - Npm
- - Git 
-#### Also I was on the courses with IT Shark school in 2019. Currently i am a student of Rolling scopes school.
+ * HTML
+ * CSS
+ * JS
+ * React
+ * Npm
+ * Git
 # Code examples
 ```
 function encodeToRot13(str) {
