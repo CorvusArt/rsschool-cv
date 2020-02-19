@@ -1,4 +1,3 @@
- 
 # Artur Labacheuski
  
 # Contact Info
