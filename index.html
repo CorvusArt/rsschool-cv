@@ -1,10 +1,86 @@
 <!doctype html>
-<html>
+<html lang="en">
   <head>
-    <title>CV Artur Labacheuski</title>
+    <title>Artur Labacheuski</title>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="stylesheet" href="index.css">
   </head>
   <body>
-    
+    <section class="wrapp">
+      <header>
+         <div class="header__upper">
+            <img class="header__avatar"
+              src="assets/images/Avatar.jpeg"
+              alt="Avatar">
+            <h1>Artur Labacheuski</h1>
+        </div>
+        <div class="header__bottom">
+          <h2>Contact Info</h2>
+          <p>Email: Corvus.Art@gmail.com</p>
+          <p>mobile: +375297905500</p>
+        </div>
+      </header>
+    <main>
+      <section class="main__left">
+        <h2>Summary</h2>
+        <p>I am interesting in web development as a creative and perspective
+         work. I like to travel the world and work at different places.
+         Web development seems to be a good-looking sphere of work. 
+         Hope to get in a good and kind company of co-workers, meet with
+         interesting people and learn new stuff.I am kind, peacefuul guy,
+         who like to learn anything new and listen others.</p>
+      </section>
+
+      <section class="main__left">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JS</li>
+            <li>React</li>
+            <li>Npm</li>
+            <li>Git</li>
+        </ul>
+      </section>
+
+      <section class="main__left">
+        <h2>Code examples</h2>
+        <pre>
+            function encodeToRot13(str) {
+                const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
+                const cipher = 'NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm';
+                return str.split('').map(letter => {
+                  const idx = alphabet.indexOf(letter);
+                  if (idx === -1) {
+                    return letter;
+                  } else {
+                    return cipher.charAt(idx);
+                  }
+                }).join('');
+              }
+        </pre>
+      </section>
+
+      <section class="main__right">
+        <h2>Experience</h2>
+        <ul>
+          <li><a href="https://htmlacademy.ru/profile/id129589/achievements">HtmlAcademy</a></li>
+          <li><a href="https://github.com/CorvusArt/js-assignments">Github js-assignments</a></li>
+        </ul>
+      </section>
+
+      <section class="main__right">
+        <h2>Education</h2>
+        <p>Brest State Technical University/Automated Data Processing Systems</p>
+      </section>
+
+      <section>
+        <h2>English</h2>
+        <p>B1</p>
+      </section>
+    </main>
+    </section>
   </body>
 </html>
