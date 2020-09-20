@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.wrapp {
+    margin: 0 auto;
+    background-color: #FDFDFD;
+    
+}
+
+.header__upper {
+    background-color: #2451AF;
+    width: 100%;
+}
+
+.header__avatar {
+    padding: 20px 0 0 10px;
+}
+
+h1, h2 {
+    padding: 10px;
+}
+
+p {
+    padding: 10px;
+}
